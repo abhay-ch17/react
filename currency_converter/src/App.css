@@ -1,0 +1,30 @@
+.mainContainer{
+  border: 1px solid grey;
+  height: 350px;
+  background-color: #454545bd;
+  padding-top: 25px;
+}
+.turn_button{
+  text-align: center;
+  width: 100%;
+  margin: 0px auto;
+}
+.turn_btn{
+  border-radius: 15px;
+  color: white;
+  border: none;
+  background-color: #76b0e6f5;
+}
+.main_contianer_flex{
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url(https://th.bing.com/th/id/OIP.R3YiXzE2qhmBoNna5cXl1AHaEK?w=329&h=184&c=7&r=0&o=5&dpr=1.3&pid=1.7);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-color: #cccccc;
+
+}
